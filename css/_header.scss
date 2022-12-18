@@ -1,0 +1,75 @@
+header{
+    width:100%;
+    // max-width: 1440px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    color: white;
+    padding:80px 80px 0px 80px;
+    padding-bottom: 198px;
+    box-sizing: border-box;
+}
+
+.MNTN-wraper-1{
+    width: 110px;
+    height: 38px;
+    font-size: 32px;
+    color:white;
+}
+
+.menu-wraper-1{
+    width: 100%;
+    max-width: 283px;
+    height: 48px;
+    display:flex;
+    justify-content: space-between;
+    font-size: 18px;
+    display:flex;
+    align-items:center;
+    box-sizing: border-box;
+}
+
+.menu-wraper-1-a{
+    color:white;
+    font-weight: 599;
+    transition:0.4s;
+    padding-bottom: 20px;
+    padding-top:20px;
+}
+
+.menu-wraper-1-a:hover{
+    transform:translate(0px,-2px);
+    color:#FBD784;
+    // animation-name: header-button;
+    // animation-duration: 0.6s;
+    // animation-fill-mode: forwards;
+
+}
+
+// @keyframes header-button {
+//     0%{
+//         margin-top:0px;
+//     }
+//     100%{
+//         margin-top:-3px;
+//     }
+// }
+
+.account-wraper-1{
+    color:white;
+    font-weight: 599;
+    font-size: 18px;
+    transition: 0.2s;
+}
+
+.account-wraper-1:hover{
+    color: #FBD784;
+}
+
+.account-wraper-1 i{
+    padding-right:8px;
+}
+
+// накинуть основному враперу внутренний падинг

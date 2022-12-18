@@ -1,0 +1,20 @@
+.grass-img {
+  width: 1920px;
+  height: 926px;
+  z-index: -1;
+}
+
+.clouds-img {
+  width: 1000px;
+  height: 1513px;
+  z-index: -3;
+  position: absolute;
+  top: -400px;
+}
+
+.mountains-img {
+  width: 1920px;
+  height: 1422px;
+  z-index: -2;
+}
+/*# sourceMappingURL=img.css.map */
