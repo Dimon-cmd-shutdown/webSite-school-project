@@ -756,6 +756,14 @@ footer {
   line-height: 32px;
 }
 
+.created-by {
+  color: #616364;
+    max-width: 347px;
+    height: 100%;
+    font-size: 18px;
+    line-height: 32px;
+}
+
 .more-on-the-blog {
   display: -webkit-box;
   display: -ms-flexbox;
